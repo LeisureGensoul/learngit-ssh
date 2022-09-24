@@ -1,2 +1,3 @@
 hello it is me.
 this is a special file which I tried to find out how the git is working.
+creating a new branch is quick.
